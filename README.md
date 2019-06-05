@@ -17,6 +17,14 @@ B站：https://space.bilibili.com/243821484#!/
 ## AiLearning: 机器学习
 ### AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 [https://github.com/apachecn/AiLearning](https://github.com/apachecn/AiLearning)
+## CS229 课程讲义中文翻译
+[https://kivy-cn.github.io/Stanford-CS-229-CN/#/Markdown/cs229-loss-functions](https://kivy-cn.github.io/Stanford-CS-229-CN/#/Markdown/cs229-loss-functions)
+## 公开课 林轩田《机器学习技法》
+《机器学习技法》课程是《机器学习基石》的进阶课程。主要介绍了机器学习领域经典的一些算法，包括支持向量机、决策树、随机森林、神经网络等等。难度要略高于《机器学习基石》，具有很强的实用性。
+
+中文视频：https://www.bilibili.com/video/av36731342
+
+中文笔记：
 
 # Deep Learning [深度学习]
 ## [吴恩达老师的深度学习课程笔记及资源](https://github.com/fengdu78/deeplearning_ai_books)
@@ -104,6 +112,25 @@ This tutorial was designed for easily diving into TensorFlow, through examples. 
 [https://github.com/greebear/deeplearning.ai-notes](https://github.com/greebear/deeplearning.ai-notes)
 ## 面向机器学习的特征工程
 [https://github.com/apachecn/feature-engineering-for-ml-zh](https://github.com/apachecn/feature-engineering-for-ml-zh)
+## Machine Learning Mastery 博客文章翻译
+[https://github.com/apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh)
+# 框架
+## Sklearn 与 TensorFlow 机器学习实用指南
+[https://github.com/apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)
+
+# 比赛
+## Kaggle 项目实战（教程） = 文档 + 代码 + 视频（欢迎参与）
+[https://github.com/apachecn/kaggle](https://github.com/apachecn/kaggle)
+
+#项目
+
+## 一个基于opencv、dilb的员工人脸识别考勤系统
+[https://github.com/inspurer/WorkAttendanceSystem](https://github.com/inspurer/WorkAttendanceSystem)
+## 一款入门级的人脸、视频、文字检测以及识别的项目
+[https://github.com/vipstone/faceai](https://github.com/vipstone/faceai)
+[https://github.com/ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)
+## 直接可以生产使用的人脸项目
+[https://deepfakes.com.cn/index.php/265.html](https://deepfakes.com.cn/index.php/265.html)
 
 
 
